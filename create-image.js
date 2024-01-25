@@ -8,6 +8,7 @@ export default async function handler(req, res) {
         try {
             console.log("Prompt value: ", req.body.prompt);
             const response = await openai.images.generate({
+                //change 3 with 2 if dallE-2 is preferred(it wont be after you try)
                 model: 'dall-e-3',
                 prompt: req.body.prompt,
                 size: '1024x1024',
