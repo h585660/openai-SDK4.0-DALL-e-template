@@ -1,6 +1,6 @@
 # OpenAI SDK 4.0 DALL-E Template 🎨🤖
 
-Welcome to the OpenAI SDK 4.0 DALL-E Template repository! This resource is dedicated to providing a simple yet effective way to connect with the OpenAI DALL-E model using the latest SDK version. Our goal is to make AI art creation accessible, straightforward, and enjoyable for developers at all levels.
+Welcome to the OpenAI SDK 4.0 DALL-E Template repository! This resource is dedicated to providing a simple yet effective way to connect with the OpenAI DALL-E model using the latest SDK version. Our goal is to make AI art creation accessible, straightforward, and enjoyable for developers at all levels. The goal is not to create a perfect ready-to-use template, but rather to provide the simplest possible compilable setup that connects with openai 4.0
 
 ## Getting Started
 
