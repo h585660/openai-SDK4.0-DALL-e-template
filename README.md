@@ -17,7 +17,7 @@ Ensure you have Node.js installed on your system. If not, you can download it fr
 
 2. **Install Dependencies:**
    Navigate to your project directory and run:
-   npm install axios next react react-dom
+   npm install axios next react react-dom openai@latest
 
 3. **Environment Variables:**
    Create a `.env` file in your root directory and add your OpenAI API key:
