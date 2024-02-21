@@ -1,7 +1,7 @@
 # OpenAI SDK 4.0 DALL-E Template 🎨🤖
 
 Welcome to the OpenAI SDK 4.0 DALL-E Template repository! This resource is dedicated to providing a simple yet effective way to connect with the OpenAI DALL-E model using the latest SDK version. My goal is to make AI art creation accessible, straightforward, and enjoyable for developers at all levels. The goal is not to create a perfect ready-to-use template, but rather to provide the simplest possible compilable setup that connects with openai 4.0.
-If like me you've gotten overly dependent on chatGPT problemsolving, you've also seen that chatGPT is incapable of providing a functioning API-call to openai. ChatGPT does not have access to the 4.0 overhaul to the api, and thus does not provide a functioning template. That's why I created this very simple setup. How you proceed with this is for you yourself to explore!
+There are limited resources regarding how to connect to the latest openai-api overhaul, and chatGPT is unable to understand that (if you went that route). That's why I created this very simple setup. How you proceed with this is for you yourself to explore!
 
 ## Getting Started
 
